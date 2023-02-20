@@ -1,0 +1,62 @@
+.body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px 0;
+    margin: 0;
+    text-align: center;
+}
+    
+.span {
+    border-bottom: 2px solid black;
+    padding: 4px;
+}
+    
+.button {
+    margin: 20px 0;
+    background: white;
+    color: black;
+    border: 1px solid black;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 5px 8px;
+    position: fixed;
+}
+
+.Koti{
+    position: absolute;
+    top: 300px;
+    left: 200px;
+}
+
+.Vieras{
+    position: absolute;
+    top: 300px;
+    left: 600px;
+}
+
+.koti-tulostaulu{
+    position: absolute;
+    top: 200px;
+    left: 200px;
+    color: red;
+}
+
+.vieras-tulostaulu{
+    position: absolute;
+    top: 200px;
+    left: 600px;
+    color: red;
+}
+
+.kkoti{
+    position: absolute;
+    top: 150px;
+    left: 200px;
+    color: pink;
+}
+
+.vvieras{
+    position: absolute;
+    top: 150px;
+    left: 600px;
+    color: pink;
+}
