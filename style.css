@@ -36,15 +36,27 @@
 .koti-tulostaulu{
     position: absolute;
     top: 200px;
-    left: 200px;
+    left: 190px;
     color: red;
+    background-color: black;
+    margin: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: white;
+    border-radius: 5px;
 }
 
 .vieras-tulostaulu{
     position: absolute;
     top: 200px;
-    left: 600px;
+    left: 590px;
     color: red;
+    margin: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: white;
+    border-radius: 5px;
+
 }
 
 .kkoti{
@@ -59,4 +71,8 @@
     top: 150px;
     left: 600px;
     color: pink;
+}
+
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
